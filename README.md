@@ -1,20 +1,14 @@
-# Bug triage and minimal fix
+# task-bug-triage-demo
 
-This repository demonstrates a bug triage workflow.
+This repository is a lightweight demo used for a short software workflow recording.
 
-## Task
-Investigate a small bug report, reproduce it locally, determine the root cause, and patch the smallest viable fix.
+## Purpose
+This project exists to simulate a realistic engineering task in a simple, no-PII environment.
 
-## What to look for
-- missing guard conditions
-- incorrect assumptions about input type
-- hidden edge case in validation or parsing
+## Contents
+- A minimal code example or scenario
+- A small task objective
+- A guided workflow for a screen recording or review session
 
-## Suggested workflow
-1. Read the issue and reproduce the bug.
-2. Inspect the minimal code path involved.
-3. Add a failing check or reproduce in a small script.
-4. Patch the root cause and verify.
-
-## Deliverable
-A concise issue summary and the minimal fix that resolves it.
+## Notes
+The repo is intentionally small and focused so it can be used for short, practical walkthroughs without extra setup.
